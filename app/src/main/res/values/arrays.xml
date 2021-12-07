@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="words">
-        <item>Assembly</item>
-        <item>Basic</item>
-        <item>C</item>
-        <item>Delphi</item>
-        <item>Erlang</item>
-        <item>F#</item>
-        <item>GoLang</item>
-        <item>Haskell</item>
-        <item>Ionic</item>
-        <item>Javascript</item>
-        <item>Kotlin</item>
-        <item>Lua</item>
-        <item>MySQL</item>
-        <item>NoSQL</item>
-        <item>Objective-C</item>
-        <item>PHP</item>
-        <item>Query</item>
-        <item>R</item>
-        <item>Sass</item>
-        <item>TypeScript</item>
-        <item>UML</item>
-        <item>VisualBasic</item>
-        <item>Wolfram</item>
-        <item>XML</item>
-        <item>Yorick</item>
-        <item>Z Shell</item>
+        <item>Arma</item>
+        <item>Battlefield</item>
+        <item>Counter-Strike</item>
+        <item>Dark Souls</item>
+        <item>Escape From Tarkov</item>
+        <item>Far Cry</item>
+        <item>God of War</item>
+        <item>Half-Life</item>
+        <item>Injustice</item>
+        <item>Just Cause</item>
+        <item>Kingdom</item>
+        <item>L.A. Noire</item>
+        <item>Medal of Honor</item>
+        <item>Need for Speed</item>
+        <item>Outlast</item>
+        <item>Phasmophobia</item>
+        <item>Quake</item>
+        <item>Resident Evil</item>
+        <item>S.T.A.L.K.E.R</item>
+        <item>The Elder Scrolls V: Skyrim</item>
+        <item>Unturned</item>
+        <item>Valheim</item>
+        <item>World of Warcraft</item>
+        <item>X-Plane</item>
+        <item>Yakuza</item>
+        <item>Zelda</item>
     </string-array>
 </resources>
